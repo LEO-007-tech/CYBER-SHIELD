@@ -29,8 +29,8 @@ The project provides a simple and interactive interface for exploring cybersecur
 ```text
 CyberShield/
 │
-├── index.html
-└── README.md
+├── README.md
+└── index.html
 ```
 
 > The project is currently implemented as a frontend-focused web application.
