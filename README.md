@@ -45,7 +45,7 @@ git clone YOUR-GITHUB-REPOSITORY-LINK
 
 2. Open the project folder.
 
-3. Open `p1.html` in your web browser.
+3. Open `index.html` in your web browser.
 
 No additional installation or setup is required for the current frontend version.
 
